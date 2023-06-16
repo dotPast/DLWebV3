@@ -3,7 +3,7 @@
 @font-face { font-family: Comfortaa; src: url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');}
 :root {
   background-image: url("../img/Background.png");
-  background-size: cover;
+  background-size: 100vh;
   background-position: center;
   
   

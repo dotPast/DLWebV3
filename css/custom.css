@@ -4,14 +4,14 @@
 :root {
   background-image: url("../img/Background.png");
   background-size: 100% auto;
-  background-position: center;
+  background-position: top;
   
   
   padding: 0 1em 0 1em;
 
   --pico-font-family: Comfortaa, cursive;
   --pico-text-selection-color: rgba(2, 154, 232, 0.25);
-  --pico-h4-color: #ffffff;p
+  --pico-h4-color: #ffffff;
   
   color: white;
 }

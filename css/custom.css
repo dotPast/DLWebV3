@@ -31,6 +31,6 @@
 }
 
 .topbar {
-  position: fixed
+  position: sticky
 }
 

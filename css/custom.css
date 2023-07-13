@@ -24,7 +24,7 @@
 }
 
 .topbar {
-  position: fixed
+  position: sticky
 }
 
 .logo-bg {

@@ -16,18 +16,15 @@
 .text {
   font-family: Comfortaa;
   color: #ffffff;
-}
-
-.par {
   text-align: left;
 }
 
 .logo {
-  text-align: match-parent;
+  text-align: center;
 }
 
 .topbar {
-  position: sticky
+  position: fixed
 }
 
 .logo-bg {

@@ -15,8 +15,11 @@
 
 .text {
   font-family: Comfortaa;
-  color: #ffffff;
   text-align: left;
+}
+
+.white {
+  color: #ffffff;
 }
 
 .logo {

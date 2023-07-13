@@ -2,12 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
 @font-face { font-family: Comfortaa; src: url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');}
 :root {
-  background-image: url("../img/Background.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  
   padding: 0 1em 0 1em;
 
   --pico-font-family: Comfortaa, cursive;
@@ -27,10 +21,16 @@
 }
 
 .logo {
-  text-align: center;
+  text-align: start;
 }
 
 .topbar {
   position: sticky
 }
 
+.logo-bg {
+  background-image: url("../img/Background.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

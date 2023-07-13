@@ -23,7 +23,7 @@
 }
 
 .logo {
-  text-align: center;
+  text-align: match-parent;
 }
 
 .topbar {

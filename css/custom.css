@@ -46,7 +46,7 @@
   font-size: x-small;
 }
 
-.fullpage {
+.full-page {
        width: 100%;
        height: calc(100vh - 5%);
        max-width: 100%;

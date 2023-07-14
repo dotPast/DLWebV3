@@ -47,8 +47,7 @@
 }
 
 .full-page {
-       width: 100%;
-       height: calc(100vh - 15%);
-       max-width: 100%;
-       max-height: 95vh;
+       width: calc(100vw - 25%);
+       max-width: 75vw;
+       max-height: 85vh;
 }

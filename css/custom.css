@@ -59,7 +59,15 @@ img {
 }
 
 .full-page {
-       width: calc(100vw - 50%);
-       max-width: 75vw;
-       max-height: 75vh;
+  width: calc(100vw - 50%);
+  max-width: 75vw;
+  max-height: 75vh;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #ff8a00 0%, #dd4c4f 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
 }

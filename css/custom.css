@@ -30,6 +30,11 @@ img {
 }
 
 .logo {
+  padding-top: 7.5%;
+  padding-bottom: 7.5%;
+}
+
+.center {
   text-align: center;
 }
 

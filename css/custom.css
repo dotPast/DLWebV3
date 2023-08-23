@@ -80,3 +80,7 @@ img {
   margin: 0 auto;
   vertical-align: middle; /* или bottom */
 }
+
+.rounded {
+  border-radius: 5px;
+}

@@ -71,3 +71,12 @@ img {
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
+
+.padding {
+  padding-top: 1.5%;
+}
+
+.center-block {
+  margin: 0 auto;
+  vertical-align: middle; /* или bottom */
+}
